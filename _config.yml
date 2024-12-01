@@ -1,7 +1,7 @@
 title: "Think Flow"
 email: Wimp8322@proton.me
 timezone: UTC
-baseurl: "/thinkflow.me"
+baseurl: ' '
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
