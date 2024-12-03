@@ -10,10 +10,10 @@ topmenu:
 - title: Contact
   url: "contact/"
 
-- title: Donate
-  url: 
-  class: "ml-2 btn btn-dark text-white px-3"
-  external: true
+# - title: Donate
+#  url: 
+#  class: "ml-2 btn btn-dark text-white px-3"
+#  external: true
 
 # Footer Menu
 footermenu:
