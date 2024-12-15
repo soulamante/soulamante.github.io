@@ -1,15 +1,9 @@
 ---
-
 layout: post
-
 title: "Reading Resolutions: Top Books to Change Your Life in 2025"
-
-categories: [ books ]
-
+categories: [ Productivity, books ]
 image: assets/images/books-front.png
-
 featured: false
-
 ---
 ### Introduction
 
