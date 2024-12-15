@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: 
 title: "Overcoming Procrastination: Practical Strategies to Get Things Done"
 categories: [ Product ]
 image: assets/images/life-don't-wait.png
