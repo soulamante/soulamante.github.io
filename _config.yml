@@ -5,7 +5,7 @@ baseurl: ''
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
-future: true
+future: false
 # author: Think Flow
 paginate: 30
 # disqus: 'demowebsite'
